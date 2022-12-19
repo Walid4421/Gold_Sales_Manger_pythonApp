@@ -4,6 +4,7 @@ An application that would allow users to add their Sales daily while it is organ
 
 
 
+![image](https://user-images.githubusercontent.com/92942235/208384551-f0597a4c-86c3-480b-8793-abb4f0527f56.png)
 
 
 
